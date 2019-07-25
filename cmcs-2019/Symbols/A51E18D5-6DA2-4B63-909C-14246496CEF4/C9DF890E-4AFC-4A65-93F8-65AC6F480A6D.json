@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9DF890E-4AFC-4A65-93F8-65AC6F480A6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71D7CA12-02D4-41BB-8A36-064B129128C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB6D0556-8433-4C4B-9C37-B02D326965BC",
+    "height": 27,
+    "width": 986,
+    "x": 248,
+    "y": 228
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/main-nav-lite",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD9532A4-BA0C-4CE2-B3AD-F56711420DF3",
+      "overrideName": "C2893A02-3729-4381-9A2B-02F4EC92A7A6_stringValue",
+      "value": "Admissions"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA393323-B7EF-4CC5-A0D9-9849CDAC62C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F526C31-1D11-49A0-832D-5B135B50027E",
+  "verticalSpacing": 0
+}

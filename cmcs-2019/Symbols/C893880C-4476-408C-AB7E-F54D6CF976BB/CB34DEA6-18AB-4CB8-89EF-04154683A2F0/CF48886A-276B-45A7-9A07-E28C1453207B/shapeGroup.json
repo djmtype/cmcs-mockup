@@ -1,0 +1,253 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF48886A-276B-45A7-9A07-E28C1453207B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24.984375,
+    "width": 57.5287326388889,
+    "x": 6.029600694444511,
+    "y": 37.38671875
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1C0139FA-DF7E-4F21-8C14-E366BC8EC2F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "048A38B1-CA7C-451D-8366-AF30ECA229D4"
+    },
+    {
+      "class": "shapePath",
+      "id": "5A760AC7-411B-4005-AB7A-8C216B6565B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "C1D08B16-8E9F-4DAB-A550-37155B1820FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C233E08-3439-41F1-9773-316BB13CEBBD"
+    },
+    {
+      "class": "shapePath",
+      "id": "D4F4145A-58FB-47D7-A418-0C7E33483320"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD01DBA2-B39A-415D-9004-DC6651581022"
+    },
+    {
+      "class": "shapePath",
+      "id": "F92916C4-F452-4BA4-8F8C-73457B5EE9D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "6C9C21AB-1975-4956-86C4-4DDB7230D9F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "296B25D4-016B-4F11-96CB-FD0DC76958C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "F2BA5829-762D-4B0C-A932-7E68CCCA67AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "C8B5CE7E-5A36-44E5-9AF3-789D94F3843A"
+    },
+    {
+      "class": "shapePath",
+      "id": "7810E52C-915E-4CD9-8BCC-DEBFE0917CF2"
+    },
+    {
+      "class": "shapePath",
+      "id": "19537108-2EDE-4655-96AB-81805D5EBED9"
+    },
+    {
+      "class": "shapePath",
+      "id": "B5F6CC71-B7EF-4256-8797-19972C73B213"
+    },
+    {
+      "class": "shapePath",
+      "id": "0D1C6990-3999-4F48-90D6-ADF1B74A9F59"
+    },
+    {
+      "class": "shapePath",
+      "id": "B962BF26-9038-4D4C-9011-3F11BFC1AE1F"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A99A6E7-3BB2-44C8-B34F-E4A464F2A499"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B319A99-1C04-475C-9713-0B0E30BA4B02"
+    },
+    {
+      "class": "shapePath",
+      "id": "F8642F0A-CBC5-4966-99B4-7E543DDAA250"
+    },
+    {
+      "class": "shapePath",
+      "id": "900CCABE-4DF0-4C6A-B68C-1336B2C6EAA4"
+    },
+    {
+      "class": "shapePath",
+      "id": "6BFB6F71-1575-49F1-A7FD-187C46560969"
+    },
+    {
+      "class": "shapePath",
+      "id": "C1E68EC2-66ED-472A-A5A7-E38E97342983"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4F4B714-1418-4BF2-AE7A-0879D0EF0A50"
+    },
+    {
+      "class": "shapePath",
+      "id": "58F3583D-D7F7-40DA-B69C-CB1E510E2A98"
+    },
+    {
+      "class": "shapePath",
+      "id": "710C3D05-D98F-4B5D-B0AF-0C1D9BD9A535"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B22D7FF-51B0-4A83-ACFB-A850CD678B60"
+    },
+    {
+      "class": "shapePath",
+      "id": "DF85A72F-7622-4119-BE8E-C52627C54EB9"
+    },
+    {
+      "class": "shapePath",
+      "id": "A9599C2B-77BA-412D-816B-4630E56E5BE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "0F9E1763-1811-4784-B9D1-D38BB1078E73"
+    },
+    {
+      "class": "shapePath",
+      "id": "F1F8937E-DAA9-4BF4-873E-B54E788607EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "25304BB1-C03A-48CC-ADEE-C2C38B087BDB"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A7F7C1B-0C9F-4485-B7AD-F0270137B480"
+    },
+    {
+      "class": "shapePath",
+      "id": "30DBD26D-D7A5-479F-B474-DC4B59BDFCC6"
+    },
+    {
+      "class": "shapePath",
+      "id": "8E19B9F5-FC9A-4336-B593-B6DD5365FDD1"
+    },
+    {
+      "class": "shapePath",
+      "id": "70DBBA20-2B95-4470-A610-888208B6BB0D"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D115B3B-FDC0-4FFB-AEBA-D2D43066ACAA"
+    },
+    {
+      "class": "shapePath",
+      "id": "98C126D9-C548-4ACD-A56E-AFD33B234026"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F4F4EEC-952E-4D4A-BBFC-2A7EE8300D30"
+    },
+    {
+      "class": "shapePath",
+      "id": "75DBAAEB-8D95-4329-92B1-E0EC0CAF6478"
+    },
+    {
+      "class": "shapePath",
+      "id": "398AC788-6204-485E-8A53-78ACB85564EF"
+    }
+  ],
+  "name": "CoastalMontessoriCharterSchool",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4941176470588236,
+          "green": 0.1921568627450981,
+          "red": 0.1490196078431373
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24.98438,
+            "enabled": 1,
+            "modelID": "constraint_132c02c3-728b-4625-b2fb-b454bd5753b7",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 57.52873
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8a516ef4-1b0a-41e8-bf24-24ea3386760a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,161 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "64EB8D91-534A-4518-81E7-A164E495B4A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18.96000000000001,
+    "width": 256.58,
+    "x": 3.574999999999998,
+    "y": 117.34
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F280E0A1-F6C8-4E7C-A07C-3DC1502A1AFF"
+    },
+    {
+      "class": "shapePath",
+      "id": "23EB87FB-F41A-40D3-BC9E-472A1FA4144F"
+    },
+    {
+      "class": "shapePath",
+      "id": "734F204A-B7E8-4AF1-B510-CB24D8B96D09"
+    },
+    {
+      "class": "shapePath",
+      "id": "45562276-A117-40AF-AD9B-E99ADC36BE05"
+    },
+    {
+      "class": "shapePath",
+      "id": "385553F5-A74C-4AB5-BD5F-AA41204518A0"
+    },
+    {
+      "class": "shapePath",
+      "id": "A57C12FA-B752-4029-85EF-2327CC4D06AA"
+    },
+    {
+      "class": "shapePath",
+      "id": "E216E213-8B60-4218-BC51-7F49A17985ED"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6915841-271A-44AC-A10C-0CD29DB4AC15"
+    },
+    {
+      "class": "shapePath",
+      "id": "EFD3512A-939C-4CF0-9E88-D6D4D1C75E0D"
+    },
+    {
+      "class": "shapePath",
+      "id": "85793AE4-F50B-4F42-9CF4-0169040C0950"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C19A7F7-1C5E-42F7-AD9E-EDE1089F4771"
+    },
+    {
+      "class": "shapePath",
+      "id": "285267AF-CA0C-4F95-AE9B-7ECBD5D27871"
+    },
+    {
+      "class": "shapePath",
+      "id": "559041E2-80E8-4D9A-9EE4-FDF8B8549278"
+    },
+    {
+      "class": "shapePath",
+      "id": "9EA8E2D5-B242-439E-BB4A-DCBA9E84266A"
+    },
+    {
+      "class": "shapePath",
+      "id": "FE04E984-FC46-4D86-B6FD-648C4FB47C7B"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFD6F5F0-89A2-46AF-8DDB-7FE2D2E5CBCF"
+    },
+    {
+      "class": "shapePath",
+      "id": "BE4B8003-5734-4611-A188-7727A20BD34A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F85E3358-6F4D-4178-9651-8D604338D127"
+    }
+  ],
+  "name": "CHARTERSCHOOL",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4941176470588236,
+          "green": 0.1921568627450981,
+          "red": 0.1490196078431373
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 18.96,
+            "enabled": 1,
+            "modelID": "constraint_3ff5850c-de2c-4c09-b4ac-96068a134302",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 256.58
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_a7772b42-0271-4612-88e3-567b2928abaf",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

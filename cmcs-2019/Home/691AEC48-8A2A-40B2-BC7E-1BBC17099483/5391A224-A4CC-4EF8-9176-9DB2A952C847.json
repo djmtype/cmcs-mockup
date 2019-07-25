@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5391A224-A4CC-4EF8-9176-9DB2A952C847",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58,
+    "width": 354,
+    "x": 937,
+    "y": 2382
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/primary/medium/label+icon copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2_stringValue",
+      "value": "More About Us"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A2B1FEA4-C8EC-428E-963F-579BFF1238C4/C171709A-13A3-4864-8527-46012EA0B944_layerStyle",
+      "value": "0427BB15-3002-41EF-AA7A-6C5630623822"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A2B1FEA4-C8EC-428E-963F-579BFF1238C4/2A435148-4F64-47F8-B548-F441F5635D9A_layerStyle",
+      "value": "93AC8E38-C4BA-4BC6-A3AC-FB91A1B05BC4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10E02A8C-106B-4606-A2FD-70BE9FFF1A67",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563307803.678159
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5172A94-F43C-4171-ABB1-60639B8B0A69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58,
+    "width": 255,
+    "x": 1033,
+    "y": 276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/primary/medium/label+icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2_textStyle",
+      "value": "3A068574-7F20-4B54-B5D3-ED3A4EDE2D59"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2_stringValue",
+      "value": "Sitemap"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A2B1FEA4-C8EC-428E-963F-579BFF1238C4/C171709A-13A3-4864-8527-46012EA0B944_layerStyle",
+      "value": "0427BB15-3002-41EF-AA7A-6C5630623822"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51D67625-C7C9-4C64-A0F6-2BD93206EA3C",
+      "overrideName": "A2B1FEA4-C8EC-428E-963F-579BFF1238C4/2A435148-4F64-47F8-B548-F441F5635D9A_layerStyle",
+      "value": "C26CAA72-3905-4260-ADCE-380467D6F6B8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10E02A8C-106B-4606-A2FD-70BE9FFF1A67",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1562865014.392782
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

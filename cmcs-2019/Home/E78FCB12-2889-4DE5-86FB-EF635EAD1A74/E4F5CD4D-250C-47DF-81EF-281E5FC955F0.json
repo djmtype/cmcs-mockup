@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4F5CD4D-250C-47DF-81EF-281E5FC955F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 127,
+    "width": 551,
+    "x": 740,
+    "y": 985
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/event",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A4D39E2-B4A8-4F4E-81F9-B3475B5D3B82",
+      "overrideName": "BDF6D74B-5DAE-4373-8EB5-F4402C48E74F_stringValue",
+      "value": "CMCS Board Meeting"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44B6E1E8-38EF-4DB8-ACC4-8C59AB01FC47",
+      "overrideName": "3845B805-3A4A-4C00-B7F4-75A5F821D0C1_stringValue",
+      "value": "CMCS Grand Hall"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76A0D409-D3A8-4B09-880D-4ADC9F0EF39E",
+      "overrideName": "FA8E6E58-226E-48B9-8C3D-799BCCDA087A_stringValue",
+      "value": "CMCS Grand Hall"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C1A7BBD-B497-4D02-B9C5-30832DCB8455",
+      "overrideName": "47BD0DE6-1C20-40CC-95C7-0E25E0DE1BD4_stringValue",
+      "value": "July 15, 2019"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "769C2401-59F9-49AF-96F5-A43784FD3234",
+      "overrideName": "86865D39-C523-4907-B21C-FCCC005B9833_stringValue",
+      "value": "6:00 pm"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0C8176BF-43A6-4DBD-9A56-76E5A9B22DC2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563995089.776306
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

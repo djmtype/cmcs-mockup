@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5D77543-6959-4FDC-8C24-1FFE33334ED7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D532148A-F7A4-4C3B-9398-6923B5FE78FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E924B6F7-48C6-4911-8F17-C84057D6AE96",
+    "height": 58,
+    "width": 205,
+    "x": 0,
+    "y": 43
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/primary/medium/icon+label copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8C52480-A2EE-4821-A34B-C0974812F57C",
+      "overrideName": "51FEB374-006D-4148-85D3-850E241BA226_symbolID",
+      "value": "22A0619C-A086-483B-86F1-05A0617CF53C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB013167-D78D-4060-81F8-286C841B6B37",
+      "overrideName": "5ACB11A5-7265-4BE4-AE06-2D990B8F7EBB_stringValue",
+      "value": "Flickr"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A86B3139-5098-43E7-9006-419586D8AAD2",
+      "overrideName": "73F08AC2-1F1B-4B1A-97D4-6A6B2CA2138C/2A435148-4F64-47F8-B548-F441F5635D9A_layerStyle",
+      "value": "93AC8E38-C4BA-4BC6-A3AC-FB91A1B05BC4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1FA89E0-1BB7-474E-9BC6-AD955F2ACB4C",
+      "overrideName": "51FEB374-006D-4148-85D3-850E241BA226/E9EE7F4A-6ECB-4959-A8AA-3A58CAF332D2_layerStyle",
+      "value": "8185A025-7B66-4ED8-9E34-E63C951ACD08"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "711122D8-E3A3-4A51-B77F-FE415542B039",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8C5CBA0-097B-4A90-9E41-CE5A5C7B1A5E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563913321.854702
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

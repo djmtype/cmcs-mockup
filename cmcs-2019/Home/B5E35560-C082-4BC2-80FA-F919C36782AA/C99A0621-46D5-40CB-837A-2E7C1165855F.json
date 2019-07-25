@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C99A0621-46D5-40CB-837A-2E7C1165855F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 550,
+    "width": 1440,
+    "x": 0,
+    "y": 5162
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/footer-dark",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36011F91-9015-41E9-B2E0-53E67F06D647",
+      "overrideName": "EC3DB8A4-81EC-415F-AA16-74AEF35061A6_stringValue",
+      "value": "Facebook\nFlickr\nYouTube"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73663E53-12FF-4F2C-BF07-511B52EA766A",
+      "overrideName": "2E7196FD-D7EF-44BD-B66C-8706234D0F45_stringValue",
+      "value": "About\nAcademics\nAdmissions\nCalendars\nParents\nContact"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6C0779FF-856E-481E-BAE5-67554E95AF47",
+  "verticalSpacing": 0
+}
