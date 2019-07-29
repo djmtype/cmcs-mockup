@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3563,
+  "changeIdentifier": 3581,
   "clippingMaskMode": 0,
   "do_objectID": "EE84384B-DF07-4969-AFA5-1BD5BBDF32A5",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "45B5BCD9-5959-44ED-94D8-94ABE752DE82"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,8 +58,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "16AB1E5F-7E29-4F88-947A-0C5293D570B4"
+    },
+    {
       "class": "group",
-      "id": "3F6F5642-FAE0-4143-AC00-738846294F31"
+      "id": "9F29DA4F-5024-43DF-8105-CA16C85E99C7"
     }
   ],
   "name": "components/event-alt",

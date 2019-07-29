@@ -1,0 +1,148 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.07058823529411765,
+            "green": 0.07058823529411765,
+            "red": 0.07058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProText-Bold",
+              "size": 24
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "lineHeightMultiple": 1,
+            "maximumLineHeight": 38.40000000000001,
+            "minimumLineHeight": 38.40000000000001
+          }
+        },
+        "length": 25,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.07058823529411765,
+            "green": 0.07058823529411765,
+            "red": 0.07058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProText-Regular",
+              "size": 24
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "lineHeightMultiple": 1,
+            "maximumLineHeight": 38.40000000000001,
+            "minimumLineHeight": 38.40000000000001
+          }
+        },
+        "length": 60,
+        "location": 25
+      }
+    ],
+    "string": "SchoolMessenger Quick Tip allows you to submit anonymous tips to our school district."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8EFF0B6A-1993-4765-8597-BEA0FA0FF6E2",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 115.2,
+    "width": 480,
+    "x": 0,
+    "y": 242.8000000000002
+  },
+  "glyphBounds": "{{0, 9}, {458, 96}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "SchoolMessenger Quic",
+  "nameIsFixed": false,
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "EC1E3326-E6EC-4529-BBC3-401CE400FF56",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.07058823529411765,
+          "green": 0.07058823529411765,
+          "red": 0.07058823529411765
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFProText-Bold",
+            "size": 24
+          }
+        },
+        "MSAttributedStringTextTransformAttribute": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "lineHeightMultiple": 1,
+          "maximumLineHeight": 38.40000000000001,
+          "minimumLineHeight": 38.40000000000001
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

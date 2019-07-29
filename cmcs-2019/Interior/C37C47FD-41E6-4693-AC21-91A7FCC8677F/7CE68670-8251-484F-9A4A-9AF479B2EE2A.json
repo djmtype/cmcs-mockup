@@ -143,10 +143,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
+    "height": 154,
     "width": 452,
-    "x": 838,
-    "y": 2149
+    "x": 740,
+    "y": 2062
   },
   "glyphBounds": "{{0, 5}, {449, 146}}",
   "hasClippingMask": false,

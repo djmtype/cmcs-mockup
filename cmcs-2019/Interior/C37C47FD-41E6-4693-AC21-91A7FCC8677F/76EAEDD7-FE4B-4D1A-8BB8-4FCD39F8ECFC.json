@@ -18,7 +18,7 @@
     "height": 58,
     "width": 174,
     "x": 1164,
-    "y": 2433
+    "y": 2330
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -26,7 +26,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "buttons/primary/medium/icon+label",
   "nameIsFixed": false,

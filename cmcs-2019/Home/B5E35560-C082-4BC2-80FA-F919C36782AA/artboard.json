@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5712,
+    "height": 5786,
     "width": 1440,
     "x": 10578,
     "y": -160
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -116,15 +116,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C99A0621-46D5-40CB-837A-2E7C1165855F"
-    },
-    {
-      "class": "symbolInstance",
       "id": "C8D7A8A0-4F7E-476A-8C61-6AD640D0EBFA"
     },
     {
       "class": "symbolInstance",
       "id": "8505D9BC-7401-428E-AF2F-2126CA68F442"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F87AA321-688D-491C-877D-BD3FCC6192EB"
     }
   ],
   "layout": {
@@ -142,8 +142,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Desktop HD Copy 7",
-  "nameIsFixed": false,
+  "name": "Home Variation 1",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
@@ -167,7 +167,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      810
+      810,
+      1080
     ]
   }
 }

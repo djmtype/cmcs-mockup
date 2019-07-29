@@ -186,8 +186,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Desktop HD Copy 4",
-  "nameIsFixed": false,
+  "name": "Home Variation 3",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

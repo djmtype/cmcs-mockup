@@ -31,6 +31,12 @@
   "name": "section/hero-alt",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28903CE6-9BD7-40A1-BCF5-F51F4AE0ABD3",
+      "overrideName": "9CB4E4B1-6933-4BC2-B37D-45BB40ABBC7C_stringValue",
+      "value": "See Montessori in Action"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
