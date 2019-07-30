@@ -119,6 +119,9 @@
       "kModelPropertiesKey": {
         "isAutoWidth": 1
       }
+    },
+    "com.precious-forever.sketch.datapopulator": {
+      "originalText": "Button"
     }
   }
 }

@@ -1,0 +1,62 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "588D37A9-5AB8-4FE1-8F13-15479FDE7270",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12.49000000000001,
+    "width": 10.01002617759104,
+    "x": 0.9784285036439542,
+    "y": 0.0989999999999327
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "21BB079E-FCCC-43DB-9663-A61C1AD2BD01"
+    },
+    {
+      "class": "shapePath",
+      "id": "05744157-671B-4299-B05C-346D12A572A4"
+    },
+    {
+      "class": "shapePath",
+      "id": "92AE2C7D-51C2-44D0-8AF1-34961CA8A024"
+    }
+  ],
+  "name": "Clip 140",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB1D0FF7-6797-4507-A19D-7C30C2D25971",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C34A55DD-3AEF-44B2-A04D-BED0B944DF3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7CB4FCAE-B4C8-4C0C-9855-DFAB916AB43A",
+    "height": 138,
+    "width": 393,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F1CAF23D-6D13-4B75-B92B-4CDBF3CD9D52"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B2F10281-0A55-4A82-9662-25594F9A446F"
+    },
+    {
+      "class": "text",
+      "id": "DF33D9B2-FF63-4F02-B996-ACF05BE5DCAC"
+    },
+    {
+      "class": "text",
+      "id": "9190BA83-5740-4EFE-AAC2-993CB73EB162"
+    },
+    {
+      "class": "text",
+      "id": "C6273549-945D-456C-BA64-AACA8C9D37D7"
+    },
+    {
+      "class": "rectangle",
+      "id": "33AD23C4-3D2F-4986-A743-CC7F8037305B"
+    }
+  ],
+  "name": "Contact Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2DB5E1A8-9FEC-4047-9CF0-B7A41D7E099C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

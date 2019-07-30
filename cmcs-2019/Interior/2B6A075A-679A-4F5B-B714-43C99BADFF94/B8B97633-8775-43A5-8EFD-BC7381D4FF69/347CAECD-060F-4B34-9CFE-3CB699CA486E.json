@@ -1,0 +1,122 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.07058823529411765,
+            "green": 0.07058823529411765,
+            "red": 0.07058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProText-Regular",
+              "size": 18
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "lineHeightMultiple": 1,
+            "maximumLineHeight": 28.8,
+            "minimumLineHeight": 28.8,
+            "paragraphSpacing": 20
+          }
+        },
+        "length": 1480,
+        "location": 0
+      }
+    ],
+    "string": "Dr. Robert L. “Chip” Hennecy, Jr. is originally from Marion, SC but now resides in Aynor, SC. He is married to Leigh Hennecy, a biology teacher at Aynor High School. They have 4 children: Summer, Bailey, Logan, and Timmy.\nDr. Hennecy is a recently retired public school administrator with the state of SC. He has worked in Marion and Horry counties in SC and Robeson county in NC. Positions held included: teacher (spanish, social studies), coach (boys tennis, football), transportation supervisor, assistant principal, and principal. Dr. Hennecy is also an Eagle Scout, an achievement he is very proud of and shares along with his brother. He also served as a SC State Trooper prior to entering the educational field. His educational background started at Erskine College earning a B.A. degree in history and playing four years of college tennis. He then went on to earn his master’s degree in educational administration from the University of South Carolina, and finally his Ed. D. from Nova Southeastern University in educational administration.\nDr. Hennecy is excited to be serving as the Interim Director at CMCS and is honored to be here. He hopes he can encourage and motivate all of those around him to be the best they can every day. He is thankful that his parents, former educators, and classmates encouraged him along the way. “Education is key to everyone’s future, regardless of what you choose to do. Do your best every day and when you look back, have no regrets.”"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "347CAECD-060F-4B34-9CFE-3CB699CA486E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 731,
+    "width": 589,
+    "x": 641,
+    "y": 806
+  },
+  "glyphBounds": "{{0, 7}, {582, 720}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Dr. Robert L. “Chip”",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "832E081C-BCAE-4A6E-855F-B078F7D0A7FC",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2F19E27-56E1-4B15-B59E-19E84B8500BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.07058823529411765,
+          "green": 0.07058823529411765,
+          "red": 0.07058823529411765
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFProText-Regular",
+            "size": 18
+          }
+        },
+        "MSAttributedStringTextTransformAttribute": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "lineHeightMultiple": 1,
+          "maximumLineHeight": 28.8,
+          "minimumLineHeight": 28.8,
+          "paragraphSpacing": 20
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

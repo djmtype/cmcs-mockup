@@ -258,6 +258,22 @@
     {
       "class": "group",
       "id": "768F7D83-9C52-4718-BE00-6380A1734F22"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D6A6AADA-DC6C-401D-BE07-838F87462009"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7966E0B0-A211-4FC3-BFAA-22F80F88309E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "75DD86BE-993F-4F5C-AC76-B7A4EA7FEF88"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "84201E42-4865-4274-AFDA-716D957E8C49"
     }
   ],
   "name": "Symbols",
