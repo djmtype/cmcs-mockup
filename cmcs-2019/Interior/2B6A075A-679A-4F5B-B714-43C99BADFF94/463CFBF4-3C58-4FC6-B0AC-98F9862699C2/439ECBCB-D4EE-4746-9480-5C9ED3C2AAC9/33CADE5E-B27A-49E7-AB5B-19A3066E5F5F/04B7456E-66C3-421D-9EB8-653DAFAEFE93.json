@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3BCF935A-E801-4A19-868D-C3F4B5BF624C",
+  "do_objectID": "04B7456E-66C3-421D-9EB8-653DAFAEFE93",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "298F0E16-3AD3-4E41-B34E-10C05CEF0F4E",
+    "do_objectID": "4121F3C3-53CE-4E4E-B162-ABE4629F040C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9C600727-C5B1-4A16-B8B4-AE08920CC527",
-    "height": 42,
-    "width": 856,
-    "x": 503,
-    "y": 1003
+    "do_objectID": "4020A766-A223-4D80-B479-EFE64BA3FA7B",
+    "height": 138,
+    "width": 393,
+    "x": 453,
+    "y": 198
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "heading/heading-divider",
+  "name": "cards/staff",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "64A812F0-889F-4773-AAEC-AB2C644214C9",
-      "overrideName": "BE553936-BAEB-493C-B99B-DC65802B6E12_stringValue",
-      "value": "Administration"
+      "overrideName": "C6273549-945D-456C-BA64-AACA8C9D37D7_stringValue",
+      "value": "Jamie Williamson"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2F10281-0A55-4A82-9662-25594F9A446F_stringValue",
+      "value": "Teaching Assistant"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF33D9B2-FF63-4F02-B996-ACF05BE5DCAC_stringValue",
+      "value": "jwilliamson@coastalmontessoricharter.org"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +56,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0A131AC1-2733-4AF2-A658-2ABFDBF6C65E",
+    "do_objectID": "21443A65-154E-4B11-9623-C1B7ED1B7900",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B6251211-D4B2-4608-92BE-214D5B986366",
+  "symbolID": "CB064EC4-5BA5-482F-9B14-B9B1E6043A62",
   "verticalSpacing": 0
 }

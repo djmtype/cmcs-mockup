@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "77CBEB10-6745-4430-B74E-1D81B7AC7CB8",
+  "do_objectID": "463CFBF4-3C58-4FC6-B0AC-98F9862699C2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 856,
+    "height": 1698,
+    "width": 846,
     "x": 503,
-    "y": 3161
+    "y": 6673
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "heading/heading-divider",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "64A812F0-889F-4773-AAEC-AB2C644214C9",
-      "overrideName": "BE553936-BAEB-493C-B99B-DC65802B6E12_stringValue",
-      "value": "Middle School"
+      "class": "group",
+      "id": "439ECBCB-D4EE-4746-9480-5C9ED3C2AAC9"
     }
   ],
+  "name": "Group 5",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -49,7 +49,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "B6251211-D4B2-4608-92BE-214D5B986366",
-  "verticalSpacing": 0
+  }
 }
