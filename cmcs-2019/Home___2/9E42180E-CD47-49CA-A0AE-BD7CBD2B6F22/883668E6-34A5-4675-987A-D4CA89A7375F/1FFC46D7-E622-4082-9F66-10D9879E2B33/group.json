@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1FFC46D7-E622-4082-9F66-10D9879E2B33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 390,
+    "width": 547,
+    "x": 259,
+    "y": 0.4758064516129252
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "63BA99BD-44AC-434E-AD08-B016CDE237B3"
+    },
+    {
+      "class": "group",
+      "id": "2356D788-CCC9-4D3F-A5DF-67A4EE1006D3"
+    },
+    {
+      "class": "group",
+      "id": "DBA8981C-9900-4317-BB3F-7BF90966E708"
+    },
+    {
+      "class": "group",
+      "id": "639FA939-8930-436C-B89E-3028606FDCF1"
+    },
+    {
+      "class": "group",
+      "id": "DCBB5C57-7BB7-4D8F-A618-9312465E6B6E"
+    }
+  ],
+  "name": "Calendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFF0FF97-C6E0-4832-85FC-70EC21514646",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 391,
+    "width": 547,
+    "x": 259,
+    "y": 0.4758064516129252
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "99162FAC-ADA4-4C26-A316-18B616EA7950"
+    },
+    {
+      "class": "group",
+      "id": "B5FF97F1-E66F-4FDC-88F7-D3C4C6943CB9"
+    },
+    {
+      "class": "group",
+      "id": "86C5BB79-3646-460D-81C0-0A7666D913EB"
+    },
+    {
+      "class": "group",
+      "id": "D29F2ADB-2A15-4942-B923-E415196E56F9"
+    },
+    {
+      "class": "shapePath",
+      "id": "9040C2B5-2CCA-4EB5-8F76-B9AFE4017C99"
+    },
+    {
+      "class": "shapePath",
+      "id": "E8522CE3-6FD8-4466-BE01-969DFCA75538"
+    },
+    {
+      "class": "shapePath",
+      "id": "480EC532-467B-444C-8ED5-102F745F3A8A"
+    },
+    {
+      "class": "shapePath",
+      "id": "CCFE63A2-CCBB-4B5D-B57B-8120676FC5A0"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB5A3A01-FB9D-4C33-9B73-2D845532E828"
+    },
+    {
+      "class": "shapePath",
+      "id": "BDAC1818-87DB-4CBF-903F-6C8EEFE03400"
+    },
+    {
+      "class": "shapePath",
+      "id": "238A3A40-5F27-4F27-B3C6-85490C3A96C5"
+    },
+    {
+      "class": "shapePath",
+      "id": "E8F4E350-BB0E-4FF2-A863-EC8DECB13EFE"
+    },
+    {
+      "class": "shapePath",
+      "id": "E42CF10D-185C-4DDE-8C85-D7F1A19A8877"
+    },
+    {
+      "class": "shapePath",
+      "id": "B0D741C4-F2D7-4460-9347-B0DB8144FF23"
+    },
+    {
+      "class": "shapePath",
+      "id": "7BEC60FC-13AF-488E-A781-E81AF909735E"
+    }
+  ],
+  "name": "Calendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

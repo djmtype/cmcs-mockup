@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBF0BC33-91BD-4F90-9364-59CBF7E03278",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5DC3ACE-9BF0-4406-B690-FBEFC067C0BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F50776E-900A-4810-8A9D-9E87133E30D8",
+    "height": 138,
+    "width": 393,
+    "x": 453,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/staff",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "33AD23C4-3D2F-4986-A743-CC7F8037305B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6e5748c76e6dcf0903ddb60ad09143d869f2838d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6273549-945D-456C-BA64-AACA8C9D37D7_stringValue",
+      "value": "Allison Arzola"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2F10281-0A55-4A82-9662-25594F9A446F_stringValue",
+      "value": "Teaching Assistant"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF33D9B2-FF63-4F02-B996-ACF05BE5DCAC_stringValue",
+      "value": "aarzola@coastalmontessoricharter.org"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "366163A7-2ECA-4341-9066-715312382989",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CB064EC4-5BA5-482F-9B14-B9B1E6043A62",
+  "verticalSpacing": 0
+}

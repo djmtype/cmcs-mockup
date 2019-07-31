@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "284B77DB-5DD1-44DA-B21B-34AAF0F2FA64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1F95E9C-E0B9-4DF1-9103-E2CAAAFC508B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5DAD9A36-E822-4A63-808B-011B83612592",
+    "height": 24,
+    "width": 24,
+    "x": 13,
+    "y": 12
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logos/bxl-facebook",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A81C358-A65C-4657-BB0F-E16D8B13C6D0",
+      "overrideName": "E9EE7F4A-6ECB-4959-A8AA-3A58CAF332D2_layerStyle",
+      "value": "E4EE2F32-963B-4193-B0ED-4E5069B0662F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C2E9B8A-E0CC-4E5E-8280-7C40F39465BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "22A0619C-A086-483B-86F1-05A0617CF53C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_b8255869-0c2d-4d19-958b-9010cab0d693",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b18718d0-b66a-434b-b1e5-45500b8f59b5",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

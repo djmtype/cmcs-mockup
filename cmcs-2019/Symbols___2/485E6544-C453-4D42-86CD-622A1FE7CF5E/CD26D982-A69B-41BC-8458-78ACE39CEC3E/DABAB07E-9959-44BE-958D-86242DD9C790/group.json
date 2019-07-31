@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DABAB07E-9959-44BE-958D-86242DD9C790",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 110,
+    "width": 135,
+    "x": 1035,
+    "y": 102
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5CFFBBF1-0429-448A-B31A-DED251A93C5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2340E92-5AF1-4E3A-AA23-09B1023C55DF"
+    },
+    {
+      "class": "group",
+      "id": "098621FD-DD56-41DF-BFB3-AAA46E5583FF"
+    },
+    {
+      "class": "text",
+      "id": "7A284079-1587-4A9E-B707-6DEA3D8848E2"
+    }
+  ],
+  "name": "Social Links",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

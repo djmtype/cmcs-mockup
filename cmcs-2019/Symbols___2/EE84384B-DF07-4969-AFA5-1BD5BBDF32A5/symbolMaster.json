@@ -1,0 +1,149 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AFA2A031-27C2-48FA-BBC3-713EA3FF014A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3581,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE84384B-DF07-4969-AFA5-1BD5BBDF32A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E22FEA8C-8177-49BC-A0BE-9BC34C580991",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "353C0176-DC10-4CF1-BD55-D666B6C15B65",
+    "height": 160,
+    "width": 551,
+    "x": 1052,
+    "y": 749
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "45B5BCD9-5959-44ED-94D8-94ABE752DE82"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "613948DE-4827-47EC-9617-D151662F14D2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "16AB1E5F-7E29-4F88-947A-0C5293D570B4"
+    },
+    {
+      "class": "group",
+      "id": "9F29DA4F-5024-43DF-8105-CA16C85E99C7"
+    }
+  ],
+  "name": "components/event-alt",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1156F922-B4B7-4D57-9C00-CE1CC5BBA919_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DA1B1C57-F47F-46C8-8D68-A1B68BE7AF5A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1156F922-B4B7-4D57-9C00-CE1CC5BBA919_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "91DDB1EF-BA11-4A5D-BD4D-9D724B11131A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1C74F340-5858-48F5-B347-349C4705BE3E_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E3427381-D4DC-41A8-86DD-396F3F0340BA_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "16AB1E5F-7E29-4F88-947A-0C5293D570B4_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "91DDB1EF-BA11-4A5D-BD4D-9D724B11131A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E3427381-D4DC-41A8-86DD-396F3F0340BA_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DA1B1C57-F47F-46C8-8D68-A1B68BE7AF5A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1C74F340-5858-48F5-B347-349C4705BE3E_textStyle"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "833DF91E-6B87-4D29-BED4-D336B532761A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B10B359A-0D0B-4215-95A7-31E4D1E80C32",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8395204F-FD62-4C02-80AB-170CD0CA1133",
+    "guides": [
+    ]
+  }
+}

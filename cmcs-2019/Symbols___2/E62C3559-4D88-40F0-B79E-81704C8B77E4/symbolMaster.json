@@ -1,0 +1,94 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CCB7C299-AC35-4925-98CA-0725F730EE06",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 89,
+  "clippingMaskMode": 0,
+  "do_objectID": "E62C3559-4D88-40F0-B79E-81704C8B77E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0AB5E63F-3CD0-459D-8709-3BCE1C5201B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD8D5C04-8C3D-4881-A4B0-056651478E32",
+    "height": 184,
+    "width": 184,
+    "x": 768,
+    "y": 1708
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "45E7803B-6466-4A1B-8EE7-D91DED01C798",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "398A7044-0261-407F-B781-45FCD798CB4E"
+    }
+  ],
+  "name": "colors/white",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "398A7044-0261-407F-B781-45FCD798CB4E_layerStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7E1D8E4-EDF8-4BE0-81BF-24036DBB3D13",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EE52B443-F660-4EF0-96CE-273A95A5AF82",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "32288856-CDD1-4E9D-93A3-0CD1C4A00C9B",
+    "guides": [
+    ]
+  }
+}

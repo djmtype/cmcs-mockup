@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "22D77961-BA80-4194-82C1-1346208D26DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4ED0CD8E-C4C9-4696-B895-7133474AEDB8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0DBBA71-5D10-4DA3-8853-2EB1929E9347",
+    "height": 58,
+    "width": 310,
+    "x": 861,
+    "y": 1545
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/primary/medium/label+icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50DE9220-D758-4371-92B4-74BB6C062EA2",
+      "overrideName": "A5CD9EAB-4370-48AB-B905-8996056EB7B1_stringValue",
+      "value": "VIew All Events"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FB6F1B0-DEB0-4086-A6DD-39660282F462",
+      "overrideName": "1DA9D2F2-E19D-4E79-A1BF-620C61212450/2A435148-4F64-47F8-B548-F441F5635D9A_layerStyle",
+      "value": "D316FBA4-A42E-4864-802C-78E3A1B75770"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13041B88-4ED7-419D-A845-4CFEE0871415",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1AE14C8E-AD4F-4160-9CA1-B7E4EB067D34",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563572999.348743
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

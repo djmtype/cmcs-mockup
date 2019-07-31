@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "35C21D91-FC33-4E2B-9164-C217A8ADAC13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D909CAC-B10B-4C28-9083-A96063D4FE99",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "650FFA53-CF0E-452A-AC12-CB2B4F5B3C39",
+    "height": 70,
+    "width": 70,
+    "x": 0,
+    "y": 0.4426229508198958
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/avatar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB78FB81-0928-45A1-AF23-2518DEAF5705",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F3584A2-56B7-4245-956E-F7F3B08314BA",
+  "verticalSpacing": 0
+}

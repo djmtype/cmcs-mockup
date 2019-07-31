@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8505D9BC-7401-428E-AF2F-2126CA68F442",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99B2A45D-BC8C-46F2-8FD5-BDAB0BC962F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20231FF0-5BA5-471F-A395-DF444C3A512D",
+    "height": 1538,
+    "width": 1440,
+    "x": 0,
+    "y": 2085
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "section/about copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25A900E2-F3EA-486B-A13B-656C57885772",
+      "overrideName": "251A5FA4-155E-4D75-8434-A81C61DA5A14_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c80f46046a440e1cda1a90e22439554827da5da2.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0AE479E3-6F2D-4F2A-B4AB-802607489945",
+      "overrideName": "9434E22F-6B06-4AA8-926B-6113294BAD5C_stringValue",
+      "value": "COASTAL MONTESSORI CHARTER SCHOOL (CMCS) is a FREE public school choice open to elementary school Georgetown County students, 1st – 8th grade. We are proud be be part of the Georgetown County School District offering a unique combination of Montessori curriculum, charter school governance, and public school access."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5BA90AFE-CD58-4742-A4D8-C6D6DBBEF666",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B3F2533-446B-4DFC-BA11-BED4DB306FF9",
+  "verticalSpacing": 0
+}

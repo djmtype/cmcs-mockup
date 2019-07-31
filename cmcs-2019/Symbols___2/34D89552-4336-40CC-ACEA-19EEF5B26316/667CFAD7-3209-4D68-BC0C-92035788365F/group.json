@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "667CFAD7-3209-4D68-BC0C-92035788365F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 596,
+    "width": 390,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5D681314-00BA-4C86-82DE-7D14F9757929"
+    },
+    {
+      "class": "rectangle",
+      "id": "17043448-3003-420C-B7C2-06473284FB1F"
+    },
+    {
+      "class": "text",
+      "id": "EC2A2B5C-09FF-4DD1-9451-12FD9569E4D7"
+    },
+    {
+      "class": "text",
+      "id": "CCF495C4-AA91-47C2-BAD6-CAF8A5FE22AD"
+    },
+    {
+      "class": "text",
+      "id": "D1A84264-0444-4C2F-A769-BFF3D88B5A5D"
+    },
+    {
+      "class": "text",
+      "id": "CE8D652B-B517-4795-92A5-357F9311326C"
+    },
+    {
+      "class": "text",
+      "id": "64C3EF44-D43D-4B22-81B5-B5A9DBEFA84C"
+    },
+    {
+      "class": "text",
+      "id": "DA10E51C-4EC4-4BBD-8615-74E6315EEC57"
+    },
+    {
+      "class": "group",
+      "id": "7E1F95BC-119F-4368-8295-E0739356B2C1"
+    }
+  ],
+  "name": "Padding Group 12",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "padding": {
+          "bottom": 40,
+          "left": 40,
+          "modelID": "viewPadding_f0aaf2f9-de22-4822-8fc9-92ac4716bb4a",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0,
+          "right": 40,
+          "top": 40
+        }
+      }
+    }
+  }
+}

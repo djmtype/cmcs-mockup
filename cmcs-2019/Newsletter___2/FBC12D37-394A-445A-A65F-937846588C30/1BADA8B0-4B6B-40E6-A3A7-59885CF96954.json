@@ -1,0 +1,117 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.07058823529411765,
+            "green": 0.07058823529411765,
+            "red": 0.07058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProText-Regular",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 19.6,
+            "minimumLineHeight": 19.6
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1103,
+        "location": 0
+      }
+    ],
+    "string": "We are ending this year on a high note! The last two weeks of school are jam-packed with lots of fun activities for the kids. \n\nThis week we have launched rockets, come to school in our PJs for our annual PJ & Movie day, got soaked at the annual end-of-year PTO field day complete with a slip-n-slide this year. While all of this was happening on campus, we had 60 middle school students working hard off campus for their internship week. The upper elementary teachers hosted the 6th grade dinner at Bagel Cafe last night! \n\nKicking off the last week of school is the 8th grade graduation on Monday morning followed by our first ever year book signing day. Tuesday and Wednesday will be memorable days for the 6th and 7th grade scholars as they hit the river in Andrews for a kayaking adventure. Thursday's half day will be occupied with the 6th graders graduation for upper elementary at 9:00 AM with an 11:25 AM dismissal time. On Friday, the last day of school, we will celebrate the 3rd graders graduation from lower elementary at 9:00 AM. The last dismissal of the year will be Friday at 11:25 AM.\n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1BADA8B0-4B6B-40E6-A3A7-59885CF96954",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 320,
+    "width": 580,
+    "x": 20,
+    "y": 579
+  },
+  "glyphBounds": "{{0, 4}, {579, 308}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "We are ending this y",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BFE8413-FDE0-4A5C-B154-EB27A5607202",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.07058823529411765,
+          "green": 0.07058823529411765,
+          "red": 0.07058823529411765
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFProText-Regular",
+            "size": 14
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 19.6,
+          "minimumLineHeight": 19.6
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

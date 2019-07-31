@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F87AA321-688D-491C-877D-BD3FCC6192EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B31CC7E2-005A-46A9-A980-B9565635C948",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9EE32563-8294-4ED9-AFFD-1BD9FE9FF0D1",
+    "height": 424,
+    "width": 1440,
+    "x": 0,
+    "y": 5362
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/footer-dark copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33279B9B-7182-4658-A073-78683C8B0579",
+      "overrideName": "7A284079-1587-4A9E-B707-6DEA3D8848E2_stringValue",
+      "value": "Facebook\nFlickr\nYouTube"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "648BEAD1-4B16-4A8B-BE99-A638A93E1D86",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "19C488BA-6FE9-4927-869D-876EA7049406",
+  "verticalSpacing": 0
+}
