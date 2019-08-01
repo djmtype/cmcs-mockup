@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D62F386-B4DA-4857-849A-5EFFA9B62F21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 795,
+    "width": 977,
+    "x": -60,
+    "y": 1004
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "5D9341C0-2D2C-4CE6-AE64-5118ACC80748"
+    },
+    {
+      "class": "group",
+      "id": "8A41EE45-1954-419A-A66E-AF17BD4DA1EF"
+    },
+    {
+      "class": "group",
+      "id": "F397BAA1-FB6B-4091-8F27-EF2D4F5ECF0D"
+    },
+    {
+      "class": "group",
+      "id": "0D7B3566-8711-44D5-B787-0F2DAE7E9C55"
+    }
+  ],
+  "name": "Calendar Background",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

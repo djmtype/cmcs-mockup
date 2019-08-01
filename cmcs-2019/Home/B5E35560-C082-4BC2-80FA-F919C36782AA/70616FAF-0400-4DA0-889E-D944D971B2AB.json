@@ -31,6 +31,12 @@
   "name": "header/header-default",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF3BAE12-A35D-44AA-8C82-491A0FEF6D6B",
+      "overrideName": "48BA3B7B-365B-43E7-BE0D-F2F45D1DE94D/5ACB11A5-7265-4BE4-AE06-2D990B8F7EBB_stringValue",
+      "value": "Get Our Newsletter"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

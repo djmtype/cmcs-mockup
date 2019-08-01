@@ -99,14 +99,6 @@
       "id": "7575BB53-7285-44E3-AEA7-F6CF70D09948"
     },
     {
-      "class": "symbolInstance",
-      "id": "E40DA0A1-1D71-4537-A44F-682291422675"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "86C75E81-7452-4287-9D93-6B933D6B23DA"
-    },
-    {
       "class": "rectangle",
       "id": "A6A2D983-F64E-46A2-AE87-CBA2371096E4"
     },
@@ -217,6 +209,14 @@
     {
       "class": "text",
       "id": "219D8C35-5DC1-40AD-B389-6C54A8453F5C"
+    },
+    {
+      "class": "group",
+      "id": "52A7BF1E-7D6A-40F9-A966-6413206EB6D6"
+    },
+    {
+      "class": "group",
+      "id": "E28BFDDE-CFF3-4D0C-8073-D70DCADA1B76"
     }
   ],
   "layout": {
@@ -259,7 +259,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      810
+      810,
+      1080
     ]
   }
 }
