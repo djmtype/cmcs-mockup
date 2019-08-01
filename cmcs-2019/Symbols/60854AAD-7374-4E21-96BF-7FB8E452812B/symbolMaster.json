@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 206,
+  "changeIdentifier": 589,
   "clippingMaskMode": 0,
   "do_objectID": "60854AAD-7374-4E21-96BF-7FB8E452812B",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "471D39CE-3D3E-44A8-9ABB-ECDCB58E092A"
+    },
+    {
       "class": "group",
-      "id": "04026E52-A2CC-4DD4-944A-263EE2FEB4D4"
+      "id": "2B39A3FC-C73A-4C8B-B285-CB2BA8379839"
     }
   ],
   "name": "nav/secondary",
@@ -131,7 +135,7 @@
       "overrideName": "BD11062D-194C-4BC2-A7AB-0EC69E5E373D_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

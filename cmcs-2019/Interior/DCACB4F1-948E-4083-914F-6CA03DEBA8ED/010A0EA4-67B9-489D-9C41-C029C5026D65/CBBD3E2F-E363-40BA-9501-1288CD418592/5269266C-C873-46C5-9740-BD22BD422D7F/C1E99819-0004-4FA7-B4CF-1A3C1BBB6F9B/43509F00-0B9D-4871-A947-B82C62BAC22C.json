@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43509F00-0B9D-4871-A947-B82C62BAC22C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1C91A24-C010-4141-B111-B699FEFDF4EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAC8A138-4462-4B63-9D56-0DA34F524AF7",
+    "height": 138,
+    "width": 480,
+    "x": 0,
+    "y": 396
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/staff",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6273549-945D-456C-BA64-AACA8C9D37D7_stringValue",
+      "value": "Katie Moore"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2F10281-0A55-4A82-9662-25594F9A446F_stringValue",
+      "value": "Teaching Assistant"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF33D9B2-FF63-4F02-B996-ACF05BE5DCAC_stringValue",
+      "value": "kmoore@coastalmontessoricharter.org"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9179A5AC-FE7B-471B-8E6D-15B8B3DB4865",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CB064EC4-5BA5-482F-9B14-B9B1E6043A62",
+  "verticalSpacing": 0
+}

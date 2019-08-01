@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A72CF116-464B-4C3D-A2CE-E775EAA8701C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2127786B-2B73-4A63-B54D-C426FE54D180",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4925ACB6-2F49-4175-BA7D-4A4AFEEACA17",
+    "height": 138,
+    "width": 393,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/staff",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6273549-945D-456C-BA64-AACA8C9D37D7_stringValue",
+      "value": "Patience Holmes"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2F10281-0A55-4A82-9662-25594F9A446F_stringValue",
+      "value": "Teaching Assistant"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF33D9B2-FF63-4F02-B996-ACF05BE5DCAC_stringValue",
+      "value": "pholmes@coastalmontessoricharter.org"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9CC66DC-0C99-499F-BF0E-17F9DE82DFED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CB064EC4-5BA5-482F-9B14-B9B1E6043A62",
+  "verticalSpacing": 0
+}

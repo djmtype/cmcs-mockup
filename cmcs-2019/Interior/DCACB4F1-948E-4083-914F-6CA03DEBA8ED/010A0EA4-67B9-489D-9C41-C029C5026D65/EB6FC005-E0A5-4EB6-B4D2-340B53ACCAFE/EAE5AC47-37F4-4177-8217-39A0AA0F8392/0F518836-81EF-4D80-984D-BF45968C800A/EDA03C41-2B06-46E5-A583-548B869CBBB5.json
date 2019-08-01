@@ -1,0 +1,130 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDA03C41-2B06-46E5-A583-548B869CBBB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67437644-CF09-4CCA-96A6-9420702C31E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1BF106F-FC26-4BCD-83D9-0C7ADE43DC01",
+    "height": 230,
+    "width": 480,
+    "x": 0,
+    "y": 580
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/staff-lg",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/1583D37D-C4D2-40C2-91DC-D2D932C7E8EA/77F9952B-1958-4606-B926-47FA6E6FC686_symbolID",
+      "value": "690F1706-6064-4124-82D6-04B493086BD9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/1583D37D-C4D2-40C2-91DC-D2D932C7E8EA/1B09FD50-32BC-4377-A9A7-9E6B102F646E_stringValue",
+      "value": "8185A025-7B66-4ED8-9E34-E63C951ACD08"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/A2B1FEA4-C8EC-428E-963F-579BFF1238C4/67CC39C4-BC79-4718-910B-978551D42F9E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2-original_stringValue",
+      "value": "F049249F-2C57-4DAE-9FB5-E3BA55A89052"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D625E71-4DCB-4212-8978-D9C2B0ED2434",
+      "overrideName": "D053A92C-56E2-4A6C-98DD-207D7CAAE890/D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2_stringValue",
+      "value": "F049249F-2C57-4DAE-9FB5-E3BA55A89052"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12E67328-DBCA-4BFE-B4DF-297CDE924D06",
+      "overrideName": "3870A604-53C7-47EB-8ADD-9A8EBB11B73C_stringValue",
+      "value": "tgaskill@coastalmontessoricharter.org"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BACD215-C2BF-4704-8638-3F30BC22A6FA",
+      "overrideName": "47DA08C0-6F1C-417F-87BC-330C3E653744_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e0945e0a789a340a7532b27fd8caba4e226ba5fd.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9095636-9376-46CC-B357-6772A924D92C",
+      "overrideName": "A98AFEF9-FFCB-491A-B4CE-6AD12CE409F6_stringValue",
+      "value": "Dr. Trisha Gaskill"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B2C42F2-A2E1-46E9-961E-0BB8AC3850C3",
+      "overrideName": "D4C8C5F5-B43F-4FC7-87BD-BBE9877925FE_stringValue",
+      "value": "Lead Teacher"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "385018DD-830E-43DF-B21F-F6E0044B84C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F770B73-6292-42D3-8547-6FE5E2E8DECF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_5831170b-bc9c-4999-9d7e-1ccc82f471e6",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_81bc92cb-5f0c-4951-a734-80298347e627",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

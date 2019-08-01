@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DAC6E02C-9019-4BDB-832B-8C9E6F783F3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6787BF2F-4210-4AAD-80D3-8BB79D7554FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CEC8116-CEB0-4E0E-A25F-3B729B4AACDE",
+    "height": 4038,
+    "width": 393,
+    "x": 0,
+    "y": 12838
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "ECD2A4EE-20B2-426A-8537-32D85A2E44DE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B8852FE4-9F34-4C6E-BF70-EA44D2EF5F39"
+    },
+    {
+      "class": "text",
+      "id": "71190648-3901-4583-8173-493EB9D2CE16"
+    }
+  ],
+  "name": "Specialty Teachers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A2A220D-C5E9-4C30-8CE9-C750C2DB3727",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 60,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

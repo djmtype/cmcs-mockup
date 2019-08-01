@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7ABEC5F-0D95-4A7E-9991-88C29D6FFD31",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F39BA01A-380C-4ACF-A127-14A73D7412E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D8AA2AF-F801-4121-8AFE-92723895E76F",
+    "height": 230,
+    "width": 480,
+    "x": 0,
+    "y": 580
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/staff-lg",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/1583D37D-C4D2-40C2-91DC-D2D932C7E8EA/77F9952B-1958-4606-B926-47FA6E6FC686_symbolID",
+      "value": "690F1706-6064-4124-82D6-04B493086BD9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/1583D37D-C4D2-40C2-91DC-D2D932C7E8EA/1B09FD50-32BC-4377-A9A7-9E6B102F646E_stringValue",
+      "value": "8185A025-7B66-4ED8-9E34-E63C951ACD08"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/A2B1FEA4-C8EC-428E-963F-579BFF1238C4/67CC39C4-BC79-4718-910B-978551D42F9E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2-original_stringValue",
+      "value": "F049249F-2C57-4DAE-9FB5-E3BA55A89052"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41088376-5BF1-4449-9D0A-0DD55B4F897A",
+      "overrideName": "D053A92C-56E2-4A6C-98DD-207D7CAAE890/D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2_stringValue",
+      "value": "F049249F-2C57-4DAE-9FB5-E3BA55A89052"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3963FADB-6ED9-40C8-8647-F5DBD9E977B4",
+      "overrideName": "3870A604-53C7-47EB-8ADD-9A8EBB11B73C_stringValue",
+      "value": "tbergeron@coastalmontessoricharter.org"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4CF39263-9047-4FE1-A25D-D3D378F72498",
+      "overrideName": "47DA08C0-6F1C-417F-87BC-330C3E653744_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/03990a878abfe4ff946454ec38408e2edd17527c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C8389B7-17D2-4DFF-87EB-7FE90D268F8F",
+      "overrideName": "A98AFEF9-FFCB-491A-B4CE-6AD12CE409F6_stringValue",
+      "value": "Tia Bergeron"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "361A6D29-F07F-41EE-B153-25C37864A200",
+      "overrideName": "D4C8C5F5-B43F-4FC7-87BD-BBE9877925FE_stringValue",
+      "value": "Business Manager"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95A3CFB5-4FBA-4C5E-8CE5-23CC7345535F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F770B73-6292-42D3-8547-6FE5E2E8DECF",
+  "verticalSpacing": 0
+}

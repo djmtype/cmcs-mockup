@@ -1,0 +1,130 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2AB6041D-B921-463C-BF4C-CB8DB7B3779A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B8B9343-31B0-4D0C-818E-BDBEF1852C5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF5D39DC-2F2D-4616-9081-CFE2B5FB57AF",
+    "height": 230,
+    "width": 480,
+    "x": 0,
+    "y": 290
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/staff-lg",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/1583D37D-C4D2-40C2-91DC-D2D932C7E8EA/77F9952B-1958-4606-B926-47FA6E6FC686_symbolID",
+      "value": "690F1706-6064-4124-82D6-04B493086BD9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/1583D37D-C4D2-40C2-91DC-D2D932C7E8EA/1B09FD50-32BC-4377-A9A7-9E6B102F646E_stringValue",
+      "value": "8185A025-7B66-4ED8-9E34-E63C951ACD08"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/A2B1FEA4-C8EC-428E-963F-579BFF1238C4/67CC39C4-BC79-4718-910B-978551D42F9E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2-original_stringValue",
+      "value": "F049249F-2C57-4DAE-9FB5-E3BA55A89052"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6CD318E-A13A-4954-8DDA-2B7D39237454",
+      "overrideName": "D053A92C-56E2-4A6C-98DD-207D7CAAE890/D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2_stringValue",
+      "value": "F049249F-2C57-4DAE-9FB5-E3BA55A89052"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A004112-BE7D-415D-8E59-36D1602830A7",
+      "overrideName": "3870A604-53C7-47EB-8ADD-9A8EBB11B73C_stringValue",
+      "value": "swilson@coastalmontessoricharter.org"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D34B8287-DED3-41D3-812F-19223550525E",
+      "overrideName": "47DA08C0-6F1C-417F-87BC-330C3E653744_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/43f2805f2a870afa47a42238d59299cc6a16c8e5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA3142F2-2A39-4E64-9F9E-E8D8D51BC085",
+      "overrideName": "A98AFEF9-FFCB-491A-B4CE-6AD12CE409F6_stringValue",
+      "value": "Sarah Wilson"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "775E5D8E-0171-4418-B31B-A2B66683774D",
+      "overrideName": "D4C8C5F5-B43F-4FC7-87BD-BBE9877925FE_stringValue",
+      "value": "Science"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B10ED0C-8710-4A62-BFFB-D38FFC2DC4C1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F770B73-6292-42D3-8547-6FE5E2E8DECF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_a6562620-4363-4e7a-b3bc-868127e7ca30",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_549da285-4781-47ff-b0ab-5b7f4f0d0a19",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

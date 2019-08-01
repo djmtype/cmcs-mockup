@@ -1,0 +1,130 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE3F9843-B687-4DC9-8349-26D5A3F0A24A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7F6D72A-DBA3-4AAD-9D2F-434B8AF19FF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C23609D-06BD-4B8A-9000-ED763AF6FDFE",
+    "height": 230,
+    "width": 480,
+    "x": 0,
+    "y": 870
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/staff-lg",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/1583D37D-C4D2-40C2-91DC-D2D932C7E8EA/77F9952B-1958-4606-B926-47FA6E6FC686_symbolID",
+      "value": "690F1706-6064-4124-82D6-04B493086BD9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/1583D37D-C4D2-40C2-91DC-D2D932C7E8EA/1B09FD50-32BC-4377-A9A7-9E6B102F646E_stringValue",
+      "value": "8185A025-7B66-4ED8-9E34-E63C951ACD08"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/A2B1FEA4-C8EC-428E-963F-579BFF1238C4/67CC39C4-BC79-4718-910B-978551D42F9E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E46F2B65-945C-47B9-8D24-EC7AA067182E/D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2-original_stringValue",
+      "value": "F049249F-2C57-4DAE-9FB5-E3BA55A89052"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5007079-81E0-4725-B874-BD89CBE20C76",
+      "overrideName": "D053A92C-56E2-4A6C-98DD-207D7CAAE890/D464EB50-D8A0-4718-BEFC-D07BF1F4F6C2_stringValue",
+      "value": "F049249F-2C57-4DAE-9FB5-E3BA55A89052"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A6D0E43-3A1F-4270-9520-04F6FCE26D12",
+      "overrideName": "3870A604-53C7-47EB-8ADD-9A8EBB11B73C_stringValue",
+      "value": "wgarner@coastalmontessoricharter.org"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C091DD0-E056-40A4-839D-2B929DC3387B",
+      "overrideName": "47DA08C0-6F1C-417F-87BC-330C3E653744_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/570d53c885ef81b23d7800ba8c359cf12986ea5f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "557FB5E3-6514-4224-A570-CE6780D05FED",
+      "overrideName": "A98AFEF9-FFCB-491A-B4CE-6AD12CE409F6_stringValue",
+      "value": "Whitney Garner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "06FC2D9C-5687-4EA3-8280-EEA3DA3345A8",
+      "overrideName": "D4C8C5F5-B43F-4FC7-87BD-BBE9877925FE_stringValue",
+      "value": "Special Education Support Teacher"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3EF335A-2E05-4E00-B64E-DD7DA26D61BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F770B73-6292-42D3-8547-6FE5E2E8DECF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_9d35d076-149f-4b41-80db-609163ef6c8f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_c555301d-92e5-4ed8-8caf-5194fced4263",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -73,15 +73,19 @@
     },
     {
       "class": "artboard",
-      "id": "9E42180E-CD47-49CA-A0AE-BD7CBD2B6F22"
+      "id": "D97541B4-DECD-4B80-AD5B-26B8A1C2CE81"
     },
     {
       "class": "artboard",
-      "id": "A4CEA9F4-2E31-4DF5-8A9F-7FD49482252F"
+      "id": "9E42180E-CD47-49CA-A0AE-BD7CBD2B6F22"
     },
     {
       "class": "symbolInstance",
       "id": "CB308F3C-0F23-4837-9E2C-AD24B91A5150"
+    },
+    {
+      "class": "artboard",
+      "id": "7F63EA1B-474F-43CD-A799-AD8D3EE748F9"
     }
   ],
   "layout": {

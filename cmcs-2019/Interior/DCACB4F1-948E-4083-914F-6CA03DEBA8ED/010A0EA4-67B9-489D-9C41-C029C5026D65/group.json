@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "010A0EA4-67B9-489D-9C41-C029C5026D65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C175B0D-4E72-4B92-9304-70B387D9E89D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6664F00C-4377-409D-B1AA-C329B727D804",
+    "height": 8594,
+    "width": 480,
+    "x": 30,
+    "y": 570
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CF00553C-6D8B-4D73-94CD-9B15ECA83059"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "18B32EC0-6476-4FD0-A108-1D71FD95C425"
+    },
+    {
+      "class": "group",
+      "id": "B891FF7D-BAC5-43B0-B69C-D772A0595236"
+    },
+    {
+      "class": "group",
+      "id": "EB6FC005-E0A5-4EB6-B4D2-340B53ACCAFE"
+    },
+    {
+      "class": "group",
+      "id": "CBBD3E2F-E363-40BA-9501-1288CD418592"
+    },
+    {
+      "class": "group",
+      "id": "74628FF8-B43A-4F4E-A449-B2AF8CFFF7D5"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7271A4E5-8D09-411F-A3AE-F53EF02042AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 90,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

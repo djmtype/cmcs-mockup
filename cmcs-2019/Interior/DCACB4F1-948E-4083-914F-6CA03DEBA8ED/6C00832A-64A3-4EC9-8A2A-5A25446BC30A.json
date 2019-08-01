@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C00832A-64A3-4EC9-8A2A-5A25446BC30A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECB0B6E8-0D7E-4B79-BCF0-55AD364BAE3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9A71BC0-05A4-4BF9-BA4B-7B8082BF00BB",
+    "height": 401,
+    "width": 480,
+    "x": 30,
+    "y": 9254
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "nav/secondary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EAFDAF6-B084-4174-BBB7-45CF343D270D",
+      "overrideName": "EA20ADAE-B48C-4140-90E2-4B7075ACE91C_stringValue",
+      "value": "Mission and Charter"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BAAD89D5-9BDB-4AAC-B0A6-5AC678D0C06E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0CB44122-E81C-4287-83DC-50DE7D229615",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1564672420.179406
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

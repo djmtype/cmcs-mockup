@@ -36,20 +36,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "B2F10281-0A55-4A82-9662-25594F9A446F"
-    },
-    {
-      "class": "text",
-      "id": "DF33D9B2-FF63-4F02-B996-ACF05BE5DCAC"
-    },
-    {
-      "class": "text",
-      "id": "9190BA83-5740-4EFE-AAC2-993CB73EB162"
-    },
-    {
-      "class": "text",
-      "id": "C6273549-945D-456C-BA64-AACA8C9D37D7"
+      "class": "group",
+      "id": "776A5DFA-5067-4673-9B32-EC95177B87BD"
     },
     {
       "class": "rectangle",
